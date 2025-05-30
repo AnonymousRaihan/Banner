@@ -21,11 +21,11 @@ rm -rf Banner
 ```
 
 ```
-git clone --depth=1 https://github.com/AnonymousRaihan/PaPi_Termux_B16.git
+git clone --depth=1 https://github.com/AnonymousRaihan/Banner.git
 ```
 
 ```
-cd PaPi_Termux_B16
+cd Banner
 ```
 
 ```
