@@ -1,4 +1,4 @@
-# PaPi_Termux_B16
+# Termux Banner
 
 ```
 apt update && apt upgrade -y
@@ -17,7 +17,7 @@ pkg install python2 -y
 ```
 
 ```
-rm -rf PaPi_Termux_B16
+rm -rf Banner
 ```
 
 ```
